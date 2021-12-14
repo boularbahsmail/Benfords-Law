@@ -1,0 +1,58 @@
+
+.maindiv {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+
+.console {
+    position:absolute;
+    left: 16px;
+    right: 16px;
+    top: 58px;
+    bottom: 16px;
+    overflow:auto;
+    background-color:#fff;
+    color:#000;
+    font-family: monospace;
+    padding: 20px;
+    padding-top: 0px;
+    margin-top: 20px;
+}
+
+.console h5 {
+    font-size: 17px;
+}
+
+.console h5 a {
+    color: rgb(52, 102, 253);
+    text-decoration: underline;
+}
+
+.linkpanel {
+    cursor: pointer;
+    cursor: hand;
+    color:#ffffff;
+    position: absolute;
+    right: 16px;
+    top: 8px;
+    height: 42px;
+    line-height: 42px;
+}
+
+.roundcorners {
+	border: 2px solid #404040;
+    border-radius: 4px;
+}
+
+.purplebg {
+	background-color: #4e27ab;
+    color: #fff;
+}
+
+.greenbg {
+	background-color: #117d2e;
+    color: #fff;
+}
